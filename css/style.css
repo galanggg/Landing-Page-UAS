@@ -1,0 +1,10 @@
+.main-header {
+    background: url(../assets/images/pexels-photo-948888.jpeg);
+    background-size: cover;
+    background-position: center;
+    min-height: 650px;
+}
+
+.main-header .tampilan-pembuka {
+    padding-top: 70px;
+}
