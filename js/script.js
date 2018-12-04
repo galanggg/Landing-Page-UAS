@@ -6,3 +6,8 @@ M.Parallax.init(parallax)
 
 var tampilan = document.querySelector('.tabs')
 M.Tabs.init(tampilan)
+
+const scroll = document.querySelectorAll('.scrollspy')
+M.ScrollSpy.init(scroll,{
+    scrollOffset: 50
+})
